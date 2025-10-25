@@ -7,3 +7,5 @@ A simple Python script that checks the status of servers by sending ping request
 - Updates every few seconds
 
 ## Run it
+
+python main.py ## Example Output 🌐 Ping Tracker Started 8.8.8.8 → Online ✅ 1.1.1.1 → Online ✅ www.google.com  → Online ✅
